@@ -1,4 +1,5 @@
 **Verilog Digital Logic Components**
+
 Welcome to the repository of Verilog implementations for various digital logic components. This collection covers fundamental to advanced designs used in digital electronics and FPGA development.
 
 **Components Included:**
