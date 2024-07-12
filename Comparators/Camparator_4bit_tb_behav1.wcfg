@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Camparator_4bit_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Camparator_4bit_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000fs"></ZoomEndTime>
+      <Cursor1Time time="975000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="141"></NameColumnWidth>
+      <ValueColumnWidth column_width="99"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/Camparator_4bit_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/j" type="array">
+      <obj_property name="ElementShortName">j[31:0]</obj_property>
+      <obj_property name="ObjectShortName">j[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/a" type="array">
+      <obj_property name="ElementShortName">a[3:0]</obj_property>
+      <obj_property name="ObjectShortName">a[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/b" type="array">
+      <obj_property name="ElementShortName">b[3:0]</obj_property>
+      <obj_property name="ObjectShortName">b[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/equal" type="logic">
+      <obj_property name="ElementShortName">equal</obj_property>
+      <obj_property name="ObjectShortName">equal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/lesser" type="logic">
+      <obj_property name="ElementShortName">lesser</obj_property>
+      <obj_property name="ObjectShortName">lesser</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Camparator_4bit_tb/greater" type="logic">
+      <obj_property name="ElementShortName">greater</obj_property>
+      <obj_property name="ObjectShortName">greater</obj_property>
+   </wvobject>
+</wave_config>

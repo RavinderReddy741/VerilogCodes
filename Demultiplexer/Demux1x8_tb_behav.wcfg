@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Demux1x8_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Demux1x8_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="160001fs"></ZoomEndTime>
+      <Cursor1Time time="160000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="159"></NameColumnWidth>
+      <ValueColumnWidth column_width="88"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Demux1x8_tb/y0" type="logic">
+      <obj_property name="ElementShortName">y0</obj_property>
+      <obj_property name="ObjectShortName">y0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y1" type="logic">
+      <obj_property name="ElementShortName">y1</obj_property>
+      <obj_property name="ObjectShortName">y1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y2" type="logic">
+      <obj_property name="ElementShortName">y2</obj_property>
+      <obj_property name="ObjectShortName">y2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y3" type="logic">
+      <obj_property name="ElementShortName">y3</obj_property>
+      <obj_property name="ObjectShortName">y3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y4" type="logic">
+      <obj_property name="ElementShortName">y4</obj_property>
+      <obj_property name="ObjectShortName">y4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y5" type="logic">
+      <obj_property name="ElementShortName">y5</obj_property>
+      <obj_property name="ObjectShortName">y5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y6" type="logic">
+      <obj_property name="ElementShortName">y6</obj_property>
+      <obj_property name="ObjectShortName">y6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/y7" type="logic">
+      <obj_property name="ElementShortName">y7</obj_property>
+      <obj_property name="ObjectShortName">y7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/s2" type="logic">
+      <obj_property name="ElementShortName">s2</obj_property>
+      <obj_property name="ObjectShortName">s2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/s1" type="logic">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/s0" type="logic">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Demux1x8_tb/in" type="logic">
+      <obj_property name="ElementShortName">in</obj_property>
+      <obj_property name="ObjectShortName">in</obj_property>
+   </wvobject>
+</wave_config>
